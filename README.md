@@ -11,9 +11,9 @@ vagrant-op-chef
 
 $ cd 
 
-$ git clone https://github.com/bwahn/vagrant-op.git
+$ git clone https://github.com/bwahn/vagrant-op-chef.git
 
-$ cd vagrant-op
+$ cd vagrant-op-chef
 
 ## download box image
 
